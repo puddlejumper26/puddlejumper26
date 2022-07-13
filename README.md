@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **xiang.wu@hotmail.de**
 
-- 🖖 **I love Scifi**
+- 🖖 **I love Sci-Fi since 6 years old **
 
 <h3 align="left">Languages and Tools:</h3>
 
