@@ -56,8 +56,8 @@
 </p>
 
 <p align="left"> 
-      <!-- mysql --> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+      <!-- sql --> 
+      <a href="https://www.sql.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://user-images.githubusercontent.com/40550117/178837393-9a982569-1915-4435-ab77-4fedd45144ac.png)" alt="mysql" width="40" height="40"/> </a> 
       <!-- Figma -->
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
       <!-- Tableau -->
