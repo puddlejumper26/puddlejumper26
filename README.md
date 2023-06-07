@@ -6,7 +6,7 @@
 <img width="400" align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puddlejumper26&label=Profile%20views&color=0e75b6&style=flat" alt="puddlejumper26" /> </p>
 
-- 🔭 I’m currently working on [blog-sim](https://github.com/puddlejumper26/blog-sim)
+- 🔭 I’m currently working on [self made tool to transfer html to json](https://github.com/puddlejumper26/htmltojson)
 
 - 🌱 I’m currently learning **Next.js, React**
 
