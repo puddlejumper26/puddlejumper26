@@ -49,6 +49,8 @@
       <img src="https://user-images.githubusercontent.com/40550117/98719591-3f591e80-2390-11eb-9f8f-f68c29b9aa95.png" width="40" height="40"/>
       <!-- Jasmine -->
       <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
+      <!--- AWS -->
+      <a><img src="https://github.com/puddlejumper26/puddlejumper26/assets/40550117/d3ddd1c8-813f-4aef-ab72-78e41c7110c2" alt="aws" width="40" height="40"/></a>
       <!-- Redux -->
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
       <!-- Hexo-->
