@@ -6,11 +6,11 @@
 <img width="400" align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puddlejumper26&label=Profile%20views&color=0e75b6&style=flat" alt="puddlejumper26" /> </p>
 
-- 🔭 I’m currently working on [TCM Terminology application](https://github.com/puddlejumper26/tcm)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Next.js, React**
+- 🌱 I’m currently learning 
 
-- 📫 How to reach me **xiang.wu@hotmail.de**
+- 📫 How to reach me ****
 
 - 🖖 I love Sci-Fi since 6 years old
 
