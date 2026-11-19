@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning 
 
-- 📫 How to reach me [well don't reach me]
+- 📫 How to reach me []
 
 - 🖖 I love Sci-Fi since 6 years old
 
